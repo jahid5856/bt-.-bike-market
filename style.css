@@ -1,0 +1,14 @@
+.img-fluid {
+    display: flex;
+}
+
+.banner-text {
+    padding-top: 130px;
+}
+
+
+.small {
+    height: 100px;
+    width: 10px;
+}
+
